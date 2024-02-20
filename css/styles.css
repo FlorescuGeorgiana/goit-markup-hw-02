@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+  font-family: "Roboto", sans-serif;
+}
+.nav-bar {
+  color: rgba(46, 47, 66, 1);
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+h1 {
+  color: rgba(255, 255, 255, 1);
+  background: rgba(46, 47, 66, 1);
+}
+
+.description-mainpage {
+  color: rgba(67, 68, 85, 1);
+}
+
+.footer-text {
+  color: rgba(244, 244, 253, 1);
+  background: rgba(46, 47, 66, 1);
+}
